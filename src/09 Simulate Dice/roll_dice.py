@@ -13,5 +13,7 @@ def roll_dice(*dice, num_trials=1_000_000):
 
 # commands used in solution video for reference
 if __name__ == '__main__':
-    roll_dice(4, 6, 6)
-    roll_dice(4, 6, 6, 20)
+    # roll_dice(4, 6, 6)
+    # roll_dice(4, 6, 6, 20)
+    # roll_dice(6)
+    roll_dice(6,6,6)
